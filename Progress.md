@@ -7,3 +7,4 @@
 | 3 | 10 - 07 - 2026 | Lecture Practice | Pre Order Traversal | Binary Tree | Easy | Solved with Lecture | DFS using recursion | 🔁 |
 | 4 | 12 - 07 - 2026 | GFG | In Order Traversal | Binary Tree | Easy | Solved Independently | DFS using recursion | ✅ |
 | 5 | 12 - 07 - 2026 | GFG | Post Order Traversal | Binary Tree | Easy | Solved Independently | DFS using recursion | ✅ |
+| 6 | 12 - 07 - 2026 | GFG | Level Order Traversal | Binary Tree | Medium | Solved Independently | BFS using Queues | ✅ |

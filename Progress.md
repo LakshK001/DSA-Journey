@@ -8,3 +8,4 @@
 | 4 | 12 - 07 - 2026 | GFG | In Order Traversal | Binary Tree | Easy | Solved Independently | DFS using recursion | ✅ |
 | 5 | 12 - 07 - 2026 | GFG | Post Order Traversal | Binary Tree | Easy | Solved Independently | DFS using recursion | ✅ |
 | 6 | 12 - 07 - 2026 | GFG | Level Order Traversal | Binary Tree | Medium | Solved Independently | BFS using Queues | ✅ |
+| 7 | 12 - 07 - 2026 | GFG | Size of Binary Tree | Binary Tree | Easy | Solved with Lecture | Iterative BFS , Recursive DFS using counter , Recursive DFS using subtrees | ✅ |

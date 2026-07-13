@@ -13,3 +13,4 @@
 | 9 | 13 - 07 - 2026 | GFG | Count Leaves in Binary Tree | Binary Tree | Easy | Solved with Lecture | Iterative BFS , Recursive DFS | ✅ |
 | 10 | 13 - 07 - 2026 | GFG | Count Non Leaves in Binary Tree | Binary Tree | Easy | Solved Independently | Iterative BFS , Recursive DFS | ✅ |
 | 11 | 13 - 07 - 2026 | GFG | Height of Binary Tree | Binary Tree | Easy | Solved with Lecture | Recursive DFS | ✅ |
+| 12 | 13 - 07 - 2026 | LeetCode | Largest Value in Each Row | Binary Tree | Medium | Solved Independently | Iterative BFS | ✅ |

@@ -14,4 +14,5 @@
 | 10 | 13 - 07 - 2026 | GFG | Count Non Leaves in Binary Tree | Binary Tree | Easy | Solved Independently | Iterative BFS , Recursive DFS | ✅ |
 | 11 | 13 - 07 - 2026 | GFG | Height of Binary Tree | Binary Tree | Easy | Solved with Lecture | Recursive DFS | ✅ |
 | 12 | 13 - 07 - 2026 | LeetCode | Largest Value in Each Row | Binary Tree | Medium | Solved Independently | Iterative BFS | ✅ |
-| 13 | 13 - 07 - 2026 | LeetCode | Sum Root to Leaf Nodes | Binary Tree | Medium | Solved after hints | DFS with accumulation of node values | ✅ |
+| 13 | 13 - 07 - 2026 | LeetCode | Sum Root to Leaf Nodes | Binary Tree | Medium | Solved after hints | DFS with accumulation of node values | 🔁 |
+| 14 | 13 - 07 - 2026 | LeetCode | Find Bottom Left Tree Value | Binary Tree | Medium | Solved Independently | Iterative BFS | ✅ |

@@ -11,3 +11,4 @@
 | 7 | 12 - 07 - 2026 | GFG | Size of Binary Tree | Binary Tree | Easy | Solved with Lecture | Iterative BFS , Recursive DFS using counter , Recursive DFS using subtrees | ✅ |
 | 8 | 12 - 07 - 2026 | GFG | Sum of Binary Tree | Binary Tree | Easy | Solved Independently | Iterative BFS , Recursive DFS using variable , Recursive DFS using subtrees | ✅ |
 | 9 | 13 - 07 - 2026 | GFG | Count Leaves in Binary Tree | Binary Tree | Easy | Solved with Lecture | Iterative BFS , Recursive DFS | ✅ |
+| 9 | 13 - 07 - 2026 | GFG | Count Non Leaves in Binary Tree | Binary Tree | Easy | Solved Independently | Iterative BFS , Recursive DFS | ✅ |

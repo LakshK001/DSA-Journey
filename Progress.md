@@ -17,4 +17,5 @@
 | 13 | 13 - 07 - 2026 | LeetCode | Sum Root to Leaf Nodes | Binary Tree | Medium | Solved after hints | DFS with accumulation of node values | 🔁 |
 | 14 | 13 - 07 - 2026 | LeetCode | Find Bottom Left Tree Value | Binary Tree | Medium | Solved Independently | Iterative BFS | ✅ |
 | 15 | 13 - 07 - 2026 | LeetCode | Construct String from Tree | Binary Tree | Medium | Solved Independently | Recursive DFS with string formation | 🔁 |
-| 16 | 17 - 07 - 2026 | LeetCode | Identical Tree | Binary Tree | Easy | Solved Independently | Recursive DFS | ✅ |
+| 16 | 17 - 07 - 2026 | GFG | Identical Tree | Binary Tree | Easy | Solved Independently | Recursive DFS | ✅ |
+| 17 | 18 - 07 - 2026 | GFG | Mirror Tree | Binary Tree | Easy | Solved Independently | Recursive DFS | ✅ |

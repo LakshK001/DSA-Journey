@@ -20,3 +20,4 @@
 | 16 | 17 - 07 - 2026 | GFG | Identical Tree | Binary Tree | Easy | Solved Independently | Recursive DFS | ✅ |
 | 17 | 18 - 07 - 2026 | GFG | Mirror Tree | Binary Tree | Easy | Solved Independently | Recursive DFS | ✅ |
 | 18 | 18 - 07 - 2026 | GFG | Check Balanced tree | Binary Tree | Easy | Solved with Lecture | Recursive DFS | 🔁 |
+| 19 | 18 - 07 - 2026 | GFG | ZiagZag Traversal | Binary Tree | Medium | Solved Independently | BFS using deque | ✅ |

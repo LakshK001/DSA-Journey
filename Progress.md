@@ -19,3 +19,4 @@
 | 15 | 13 - 07 - 2026 | LeetCode | Construct String from Tree | Binary Tree | Medium | Solved Independently | Recursive DFS with string formation | 🔁 |
 | 16 | 17 - 07 - 2026 | GFG | Identical Tree | Binary Tree | Easy | Solved Independently | Recursive DFS | ✅ |
 | 17 | 18 - 07 - 2026 | GFG | Mirror Tree | Binary Tree | Easy | Solved Independently | Recursive DFS | ✅ |
+| 18 | 18 - 07 - 2026 | GFG | Check Balanced tree | Binary Tree | Easy | Solved with Lecture | Recursive DFS | 🔁 |

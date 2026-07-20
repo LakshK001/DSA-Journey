@@ -26,3 +26,4 @@
 | 22 | 20 - 07 - 2026 | GFG | Left View of Binary Tree | Binary Tree | Easy | Solved with Lecture | Iterative BFS , Recursive DFS | ✅ |
 | 23 | 20 - 07 - 2026 | GFG | Right View of Binary Tree | Binary Tree | Easy | Solved Independently | Recursive DFS | ✅ |
 | 24 | 20 - 07 - 2026 | GFG | Top View of Binary Tree | Binary Tree | Medium | Solved with Lecture |Iterative BFS , Recursive DFS | 🔁 |
+| 25 | 20 - 07 - 2026 | GFG | Bottom View of Binary Tree | Binary Tree | Medium | Solved Independently | Recursive DFS | 🔁 |

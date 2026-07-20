@@ -23,3 +23,4 @@
 | 19 | 18 - 07 - 2026 | GFG | ZiagZag Traversal | Binary Tree | Medium | Solved Independently | BFS using deque | ✅ |
 | 20 | 18 - 07 - 2026 | GFG | Check if Two Nodes are Cousins | Binary Tree | Medium | Solved Independently | BFS with conditions | 🔁 |
 | 21 | 18 - 07 - 2026 | LeetCode | Path Sum II | Binary Tree | Medium | Solved Independently | DFS with backtracking | 🔁 |
+| 22 | 20 - 07 - 2026 | GFG | Left View of Binary Tree | Binary Tree | Easy | Solved with Lecture | Iterative BFS , Recursive DFS | ✅ |

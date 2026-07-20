@@ -25,3 +25,4 @@
 | 21 | 18 - 07 - 2026 | LeetCode | Path Sum II | Binary Tree | Medium | Solved Independently | DFS with backtracking | 🔁 |
 | 22 | 20 - 07 - 2026 | GFG | Left View of Binary Tree | Binary Tree | Easy | Solved with Lecture | Iterative BFS , Recursive DFS | ✅ |
 | 23 | 20 - 07 - 2026 | GFG | Right View of Binary Tree | Binary Tree | Easy | Solved Independently | Recursive DFS | ✅ |
+| 24 | 20 - 07 - 2026 | GFG | Top View of Binary Tree | Binary Tree | Medium | Solved with Lecture |Iterative BFS , Recursive DFS | 🔁 |

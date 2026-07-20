@@ -14,7 +14,7 @@ Approach:
 
 
 Time Complexity: O(n) 
-Auxilliary Space Complexity: O(h) where h is height of binary tree . In worst case , h = n .
+Auxilliary Space Complexity: O(h+w) where h is height of binary tree and w is width of binary tree . In worst case , h = n or w = n .
 */
 
 #include<vector>

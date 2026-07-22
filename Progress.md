@@ -28,3 +28,4 @@
 | 24 | 20 - 07 - 2026 | GFG | Top View of Binary Tree | Binary Tree | Medium | Solved with Lecture |Iterative BFS , Recursive DFS | 🔁 |
 | 25 | 20 - 07 - 2026 | GFG | Bottom View of Binary Tree | Binary Tree | Medium | Solved Independently | Recursive DFS | 🔁 |
 | 26 | 21 - 07 - 2026 | Leetcode | Search a 2D Matrix II | Binary Search | Medium | Solved Independently | Staircase Search | ✅ |
+| 27 | 22 - 07 - 2026 | Lecture Basics | Implement BST | Binary Search Tree | Easy | Solved with Lecture | Recursive DFS insertion | ✅ |
